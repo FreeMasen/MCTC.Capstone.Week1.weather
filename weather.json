@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lat": 44.98,
+        "lon": -93.26
+    },
+    "base": "stations",
+    "dt": 1503620100,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "clouds": {
+        "all": 1
+    },
+    "main": {
+        "pressure": 1019,
+        "temp_max": 294.15,
+        "temp": 293.22,
+        "humidity": 52,
+        "temp_min": 291.15
+    },
+    "name": "Minneapolis",
+    "id": 5037649,
+    "sys": {
+        "sunset": 1503709322,
+        "id": 1570,
+        "sunrise": 1503660427,
+        "type": 1,
+        "message": 0.0066,
+        "country": "US"
+    },
+    "cod": 200,
+    "wind": {
+        "speed": 3.1,
+        "deg": 120
+    },
+    "visibility": 16093
+}
